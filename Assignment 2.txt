@@ -1,0 +1,110 @@
+                                                    Assignment module 2 : Installation and Maintenance of Hardware and Its
+
+                                                                       Section 1: Multiple Choice 
+
+
+1. Which of the following precautions should be taken before working on computer hardware?
+ans:-b) Wear an anti-static wrist strap to prevent damage from electrostatic discharge.
+
+2. What is the purpose of thermal paste during CPU installation? 
+ans:-c) To improve thermal conductivity between the CPU and the heat sink.
+
+3.Which tool is used to measure the output voltage of a power supply unit (PSU)? 
+ans:a) Multimeter
+
+4. Which component is responsible for storing BIOS settings, such as date 
+and time, even when the computer is powered off?
+ans:-a) CMOS battery 
+
+                                                                        Section 2: True or false
+
+
+5. True or False: When installing a new hard drive, it is essential to format it before use.
+ans:-True
+
+6. True or False: A POST (Power-On Self-Test) error indicates a problem with the CPU. 
+ans:-false
+
+7. True or False: It is safe to remove a USB flash drive from a computer without ejecting it first. 
+ans:-false
+
+                                                                          Section 3: Short Answer  
+
+8. Describe the steps involved in installing a new graphics card in a desktop computer. 
+ans:- step 1 - Power down & unplug your PC
+      step 2 - Remove your Old GPU  
+      step 3 - Install the New Graphics Card
+      step 4 - Connect Power & Reassemble
+      step 5 - Power On & Install Drivers
+
+                                                                         Section 4: Practical Application
+
+
+10. Demonstrate how to replace a CPU fan in a desktop computer. 
+ans :-step 1 - power off :-shutdown your computer and unplug the power cord and hold the power button for few seconds 
+                           to discharge any electricity.
+
+      step 2 - Open the Case :- Remove the side panel to access the CPU area.
+
+      step 3 - Locate the CPU fan :- The CPU fan is usually located on top of the CPU which is covered by heatsink.
+
+      step 4 - Disconnect the fan :- Disconnect the fan's power cable from the motherboard.
+                                  :- It will be a small 3 or 4-pin connector labeled "CPU FAN".
+
+      step 5 - Remove the old fan:- Carefully detach the fan from the heatsink.
+
+      step 6 - Clean the CPU :- Use a lint-free cloth and isopropyl alcoholto remove any old
+                                thermal paste from the top of the CPU and the bottom of the heatsink. 
+      
+      step-7 - Apply new thermal paste :- apply the small size of new thermal to the center of CPU.
+
+      step 8 - install the new fan cooler :- Secure the new fan to the heatsink, ensuring it's properly aligned and making good contact.
+
+      step 9 - Reconnect the fan :- Connect the new fan's power cable to the CPU fan on the motherboard.
+     
+      step 10 - Close the case :- Close the computer case,
+                                  and again power on your computer,
+                                  and check the new fan is working correctly,
+                                  you can see the CPU tempraturen in the BIOS.
+
+
+                                                                           aSection 5: Essay 
+
+11. Discuss the importance of regular maintenance for computer hardware and provide examples of maintenance tasks.
+ans :- Regular maintenance of computer hardware is Help for optimal performance, longevity, and security.
+     - It helps some issues like overheating, data loss, and system slowdowns, ultimately saving you time, money, and frustration.
+
+       :- Importance of Regular Maintenance:-
+           1.bettar Performance
+           2.Reduce Overheating
+           3.Improving Lifespan
+           4.Data Security
+           5.Money Savings
+           6.Improved Security
+           
+       *Bettar Performance :- Dust accumulation, outdated software can significantly impact a computer's speed and responsiveness.
+                            - Reqular maintenance help for system running smothly and perfactly. 
+
+       *Reduce Overheating :- With dust fans and heatsink are not working properly so its leading overheating and hardware damage.
+                            - cleaning this components reqularly it s help for maintain operating temperature.
+
+       *Improving Lifespan :- regular maintenance can significantly extend the lifespan of your computer's hardware components.
+
+
+       *Data Security :-  Use reqular antivirus scans and backups are protecting for valuable data.
+                       -  data is very important in our computer device so first of all we cares and protect our data from this 
+                          reqular maintainance.
+   
+       *Money Savings :- if we found minor issues in our computer device or hardware components so its repair very costly.
+                       - Regular maintenance is a cost-effective way to protect your money.
+     
+       *Improved Security :- update your software updates and running antivirus scans helps protect your system from security
+                             threats.
+
+          * Examples of Maintenance Tasks:- Hardware Cleaning,
+                                          - Software Updates,
+                                          - Antivirus Scans,
+                                          - Disk Cleanup,
+                                          - Data Backups,
+                                          - Checking for Driver Updates,
+                                          - Physical cleanin
